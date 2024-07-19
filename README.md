@@ -10,8 +10,6 @@ The candidate should break down the process of design thinking, including each p
 
 This is all about targeting the right part of the application. We are talking about the Minimum Viable Product and the Most Valuable Point within the product cycle. The candidate should demonstrate an awareness of prioritization on value. 
 
-## Can you provide an example of a challenging UX problem you encountered in a past project and how you solved it?
-
 ## How do you incorporate user feedback into your design process?
 
 Any suitable answer should include standard specific UX research methods, including but not limited to UX Research Interviews, A/B Testing, Usability Testing Sessions, and Card Sorting, as well as Diary Studies and Stakeholder Reviews. 
