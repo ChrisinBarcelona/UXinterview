@@ -28,12 +28,12 @@ This will be an opportunity for the candidate to flex their ability to persuade 
 
 ## Tough Question. 
 
-A company has developed a niche productivity tool designed specifically for remote teams in the legal industry. Despite having a solid user base, feedback indicates that users find certain features unintuitive, and there are unexplained drop-offs in engagement. Describe which UX research methods you would utilise during specifically the discovery phase and explain why qualitative over quanitative methods be preferred. 
+A company has developed a niche productivity tool designed specifically for remote teams in the legal industry. Despite having a solid user base, feedback indicates that users find certain features unintuitive, and there are unexplained drop-offs in engagement. Describe which UX research methods you would utilise during specifically the discovery phase and explain why qualitative over quanitative methods may be preferred. 
 
 ## UI Test I: Redesign this, using auto-layout and components in 15 minutes. 
 
 ![YouTube Homepage](https://9to5google.com/wp-content/uploads/sites/4/2022/09/YouTube-homepage-desktop-current.jpg?quality=82&strip=all)
 
-## UI Test II: Using the Material Design System within Figma, build an app which allows a user to create an account. 
+## UI Test II: Using the Material Design System within Figma, build a flow which allows a user to create an account. 
 
 
