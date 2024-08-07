@@ -26,7 +26,7 @@ Any answer such as, "I subscribe to different channels on social media," or "I r
 
 This will be an opportunity for the candidate to flex their ability to persuade and describe with confidence the value of good UX, clean time and product management, and organizational structure.
 
-## Tough Question. 
+## Real World Scenario. 
 
 A company has developed a niche productivity tool designed specifically for remote teams in the legal industry. Despite having a solid user base, feedback indicates that users find certain features unintuitive, and there are unexplained drop-offs in engagement. Describe which UX research methods you would utilise during specifically the discovery phase and explain why qualitative over quanitative methods may be preferred. 
 
@@ -36,19 +36,19 @@ Assignment: *Style Guide for a Music Player*
 
 ![Style Guide](https://res.cloudinary.com/chriskelly-it/image/upload/v1723032323/StyleGuide_awvblr.jpg)
 
-### Objective:
+### Objective
 Create a detailed style guide that will serve as the foundation for a design system for a music player application. This style guide should encompass all the essential elements needed to ensure a cohesive and visually appealing design.
 
-### Instructions:
+### Instructions
 Your task is to develop a style guide that could be used for designing a music player application like the example featured. Make sure to include the following elements:
 
-### Typography:
+### Typography
 
 Define primary and secondary typefaces.
 Specify font sizes, weights, and styles for headings, body text, captions, and any other text elements.
 Include examples of text hierarchies and usage guidelines.
 
-### Iconography:
+### Iconography
 
 Provide a set of icons that can be used throughout the music player (e.g., play, pause, skip, volume, shuffle).
 Describe the style (line, filled, two-tone) and size options.
