@@ -32,7 +32,7 @@ A company has developed a niche productivity tool designed specifically for remo
 
 ## UI Test I: Redesign this, using auto-layout and components in 15 minutes. 
 
-![YouTube Homepage](https://9to5google.com/wp-content/uploads/sites/4/2022/09/YouTube-homepage-desktop-current.jpg?quality=82&strip=all)
+![YouTube Homepage](https://www.notion.so/barcelona-code-school/Daily-UI-Music-Player-4d25c12a08e341089205aaae17e16c9e?pvs=4#d207868bbf3c4692a775747c095308a7)
 
 ## UI Test II: Using the Material Design System within Figma, build a flow which allows a user to create an account. 
 
