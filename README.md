@@ -32,7 +32,7 @@ A company has developed a niche productivity tool designed specifically for remo
 
 ## UI Test I: Using the example UI as inspiration, develop a Style Guide for the music player. 
 
-![Style Guide]([https://res.cloudinary.com/chriskelly-it/image/upload/v1723031945/RamenGo-Styleguide-v2_1_zmxnq4](https://res.cloudinary.com/chriskelly-it/image/upload/v1723032323/StyleGuide_awvblr.jpg))
+![Style Guide](https://res.cloudinary.com/chriskelly-it/image/upload/v1723032323/StyleGuide_awvblr.jpg)
 
 ![Music Player](https://res.cloudinary.com/chriskelly-it/image/upload/v1723031940/preview_1_q43qh8.png)
 
