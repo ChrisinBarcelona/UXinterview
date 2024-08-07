@@ -34,7 +34,7 @@ A company has developed a niche productivity tool designed specifically for remo
 
 Assignment: *Style Guide for a Music Player*
 
-![Style Guide](https://res.cloudinary.com/chriskelly-it/image/upload/v1723032323/StyleGuide_awvblr.jpg)
+![Music Player](https://res.cloudinary.com/chriskelly-it/image/upload/v1723031940/preview_1_q43qh8.png)
 
 ### Objective
 Create a detailed style guide that will serve as the foundation for a design system for a music player application. This style guide should encompass all the essential elements needed to ensure a cohesive and visually appealing design.
@@ -89,5 +89,5 @@ Navigation: Provide guidelines for navigation bars, side menus, and other naviga
 Spacing and Layout: Specify spacing rules, grid systems, and alignment guidelines.
 Examples and Usage:
 
-![Music Player](https://res.cloudinary.com/chriskelly-it/image/upload/v1723031940/preview_1_q43qh8.png)
+![Style Guide](https://res.cloudinary.com/chriskelly-it/image/upload/v1723032323/StyleGuide_awvblr.jpg)
 
