@@ -30,10 +30,9 @@ This will be an opportunity for the candidate to flex their ability to persuade 
 
 A company has developed a niche productivity tool designed specifically for remote teams in the legal industry. Despite having a solid user base, feedback indicates that users find certain features unintuitive, and there are unexplained drop-offs in engagement. Describe which UX research methods you would utilise during specifically the discovery phase and explain why qualitative over quanitative methods may be preferred. 
 
-## UI Test I: Redesign this, using auto-layout and components in 15 minutes. 
+## UI Test I: Using the example UI as inspiration, develop a Style Guide for the music player. 
 
-![YouTube Homepage](https://www.notion.so/barcelona-code-school/Daily-UI-Music-Player-4d25c12a08e341089205aaae17e16c9e?pvs=4#d207868bbf3c4692a775747c095308a7)
+![Style Guide]([https://res.cloudinary.com/chriskelly-it/image/upload/v1723031940/preview_1_q43qh8.png](https://res.cloudinary.com/chriskelly-it/image/upload/v1723031945/RamenGo-Styleguide-v2_1_zmxnq4.pdf))
 
-## UI Test II: Using the Material Design System within Figma, build a flow which allows a user to create an account. 
-
+![Music Player](https://res.cloudinary.com/chriskelly-it/image/upload/v1723031940/preview_1_q43qh8.png)
 
